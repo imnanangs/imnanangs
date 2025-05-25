@@ -1,4 +1,4 @@
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/a444fb11-8c0c-4de2-b582-7c7ed470462e)
 
 ## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M NANANG</h1>
 
