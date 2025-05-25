@@ -1,6 +1,4 @@
-<div align="center">
-  ![image](https://github.com/user-attachments/assets/a444fb11-8c0c-4de2-b582-7c7ed470462e) Banner"/>
-</div>
+![image](https://github.com/user-attachments/assets/83b82b58-9507-46a0-8748-b32b65dfcbbd)
 
 ## <div align="center"><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> I'M NANANG <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1></div>
 
