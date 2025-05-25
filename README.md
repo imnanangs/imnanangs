@@ -1,8 +1,6 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Hi%20There!%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" alt="Header Banner"/>
-
-  </div>
+  ![image](https://github.com/user-attachments/assets/a444fb11-8c0c-4de2-b582-7c7ed470462e) Banner"/>
+</div>
 
 ## <div align="center"><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> I'M NANANG <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1></div>
 
