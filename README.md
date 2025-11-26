@@ -48,7 +48,7 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
 ### 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,php,laravel,mysql,git,github,webpack,vscode,postman,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,php,laravel,mysql&perline=8" />
   </a>
 </p>
 
