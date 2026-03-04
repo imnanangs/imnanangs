@@ -35,7 +35,7 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
   <a href="#" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://imnanang.my.id" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:nngs.me@gmail.com">
@@ -48,7 +48,7 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
 ### 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,php,laravel,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,ts,nextjs&perline=8" />
   </a>
 </p>
 
