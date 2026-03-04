@@ -59,29 +59,12 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
 <div align="center">
   <table>
     <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=imnanangs&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" alt="imnanangs's GitHub stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnanangs&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="imnanangs's Top Languages" />
-      </td>
-    </tr>
-    <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnanangs&theme=gotham&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imnanangs&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 🐍 My Contribution Snake
 <div align="center">
