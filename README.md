@@ -101,10 +101,18 @@ I'm a Frontend Developer based in Indonesia 🇮🇩 with a passion for creating
 
 ---
 
-### 😄 Random Dev Joke
+### 🇮🇩 Dari Indonesia, Untuk Dunia
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random developer joke" />
+  <img src="https://flagcdn.com/w160/id.png" width="110" alt="Bendera Indonesia" />
+  <br />
+  <i>"Bhinneka Tunggal Ika" — beda-beda stack, tetap satu tujuan: web yang keren.</i>
+  <p>
+    <img src="https://img.shields.io/badge/Based_in-Indonesia-E70011?style=for-the-badge" alt="Based in Indonesia" />
+    <img src="https://img.shields.io/badge/Timezone-WIB_%28UTC%2B7%29-555555?style=for-the-badge" alt="WIB UTC+7" />
+    <img src="https://img.shields.io/badge/Bahasa-Indonesia-FFFFFF?style=for-the-badge" alt="Bahasa Indonesia" />
+  </p>
+  <p>Ngoding ditemani <b>kopi tubruk</b> ☕ — bug boleh datang, semangat jangan padam! 🔥</p>
 </div>
 
 ---
