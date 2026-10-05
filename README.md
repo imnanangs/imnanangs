@@ -1,15 +1,28 @@
+<!--
+  ═══════════════════════════════════════════════════════════════════
+  SETUP NOTES (hapus blok komentar ini setelah selesai)
+  ───────────────────────────────────────────────────────────────────
+  • Taruh file ini sebagai README.md di repo publik bernama PERSIS
+    username GitHub kamu:  imnanangs/imnanangs
+  • Contribution snake: copy file "snake-workflow.yml" dari folder ini
+    ke  .github/workflows/snake.yml  di repo profil, lalu push.
+    Tunggu 5–10 menit, animasi ular akan muncul otomatis.
+  • Ganti href="#" pada badge LinkedIn & Instagram dengan link aslimu.
+  ═══════════════════════════════════════════════════════════════════
+-->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/83b82b58-9507-46a0-8748-b32b65dfcbbd" alt="Header Banner"/>
 </p>
 
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
-    Hi there, I'm Nanang! 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+    Hi there, I'm Nanang!
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Passionate+Frontend+Developer;Always+Learning+New+Things;Exploring+the+Backend+Side+Too;Love+to+Code+%3C%2F%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&width=435&lines=Passionate+Frontend+Developer;Always+Learning+New+Things;Exploring+the+Backend+Side+Too;Love+to+Code+%3C%2F%3E" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,17 +30,18 @@
 
 ### 👋 About Me
 
-I'm a Frontend Developer based in Indonesia with a passion for creating beautiful, responsive, and user-friendly web applications. I enjoy turning complex problems into simple and intuitive designs. While my heart is in the frontend, I'm also actively expanding my skills into the backend world to become a more well-rounded developer.
+I'm a Frontend Developer based in Indonesia 🇮🇩 with a passion for creating beautiful, responsive, and user-friendly web applications. I enjoy turning complex problems into simple and intuitive designs. While my heart is in the frontend, I'm also actively expanding my skills into the backend world to become a more well-rounded developer.
 
--   🌱 I’m currently learning **Next.js** and **TypeScript**.
--   🚀 I’m focused on building scalable and performant web applications.
--   👯 I’m looking to collaborate on interesting open-source projects.
--   📫 How to reach me: **[nngs.me@gmail.com](mailto:nngs.me@gmail.com)**
--   ⚡ Fun fact: I believe a good cup of coffee can solve almost any coding bug! ☕
+- 🌱 I'm currently learning **Next.js** and **TypeScript**
+- 🚀 I'm focused on building scalable and performant web applications
+- 👯 I'm looking to collaborate on interesting open-source projects
+- 📫 How to reach me: **[nngs.me@gmail.com](mailto:nngs.me@gmail.com)**
+- ⚡ Fun fact: I believe a good cup of coffee can solve almost any coding bug! ☕
 
 ---
 
 ### 🔗 Let's Connect!
+
 <p align="center">
   <a href="#" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -46,10 +60,21 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
 ---
 
 ### 💻 My Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,ts,nextjs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,tailwind,mysql&perline=8" alt="Core stack" />
   </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,redux,vitest,git,figma,postman,vscode&perline=8" alt="Tools & more" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%C2%B7%20Next.js%20%C2%B7%20Vue%20%C2%B7%20Tailwind-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Testing-Vitest%20%C2%B7%20Pest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Testing" />
 </p>
 
 ---
@@ -57,22 +82,29 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnanangs&theme=gotham&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=imnanangs&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Nanang's GitHub stats" />
+  <img height="190" src="https://streak-stats.demolab.com?user=imnanangs&theme=gotham&hide_border=true&border_radius=6" alt="GitHub streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnanangs&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 ### 🐍 My Contribution Snake
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imnanangs/imnanangs/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imnanangs/imnanangs/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/imnanangs/imnanangs/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+---
+
+### 😄 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random developer joke" />
 </div>
 
 ---
@@ -82,3 +114,5 @@ I'm a Frontend Developer based in Indonesia with a passion for creating beautifu
   <p><em>Thank you for visiting my little corner of the internet! ✨</em></p>
   <img src="https://media.giphy.com/media/LnqM18OKmybCNYSAjU/giphy.gif" width="50">
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="Footer wave" />
